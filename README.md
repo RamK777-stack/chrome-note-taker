@@ -32,7 +32,7 @@ A simple note taker chrome extension app built with React, TypeScript, Vite, Tai
 
 ## Development
 
-This project uses Vite for building the Chrome extension. The `manifest.json` and other extension-specific files are located in the `public` directory.
+This project uses Vite for building the Chrome extension. The `manifest.json` and other extension-specific files are located in the `public` directory. 
 
 ## UI Components
 
