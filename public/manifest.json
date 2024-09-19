@@ -1,0 +1,18 @@
+{
+    "manifest_version": 3,
+    "name": "Note taker",
+    "version": "1.0.0",
+    "description": "A simple note taker app",
+    "icons": {
+        "16": "icon16.png",
+        "48": "icon48.png",
+        "128": "icon128.png"
+    },
+    "permissions": ["sidePanel"],
+    "side_panel": {
+      "default_path": "index.html"
+    },
+    "background": {
+      "service_worker": "background.js"
+    }
+  }
